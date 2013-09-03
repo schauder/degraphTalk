@@ -1,0 +1,4 @@
+.*
+*.graphml
+bin/
+lib/
